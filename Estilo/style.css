@@ -6,13 +6,15 @@ html {
 	
 }
 
-
-body {
+header{
 	background-image:url("fondo.png");
         background-repeat-x:repeat;
 	background-repeat-y:no-repeat;
-	backgroud-repeat:no-repeat;
+	background-attachment
 	background-size:500px 235px;
+	}
+
+body {
 	margin-top:10px;
 	margin-right:10px;
 	margin-bottom:10px;
@@ -20,7 +22,7 @@ body {
 }
 
 h1 {
-	color:  white;
+	color: white;
   font-size: 60px;
   text-align: center;
 }
