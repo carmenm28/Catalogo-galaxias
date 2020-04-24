@@ -2,18 +2,17 @@
 
 
 html {
-	font-family:Arial;/*segoe UI*/
+	font-family:Arial;
 	
 }
 
 
 body {
 	background-image:url("fondo.png");
-    background-repeat-x:repeat;
+        background-repeat-x:repeat;
 	background-repeat-y:no-repeat;
+	backgroud-repeat:no-repeat;
 	background-size:500px 235px;
-	/*background-image:url("123.png");
-	background-size:640px 235px;*/
 	margin-top:10px;
 	margin-right:10px;
 	margin-bottom:10px;
